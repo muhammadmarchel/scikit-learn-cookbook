@@ -1,5 +1,7 @@
 # scikit-learn Cookbook
 
+# Link Book: https://drive.google.com/file/d/1b7mWwNMYWxOVwnWbPZd8_njVXAgGEMQR/view
+
 This repository contains code reproductions and theoretical deep-dives for the *scikit-learn Cookbook* (O'Reilly / Packt). This is an individual task for the Enrichment for Machine Learning Classes.
 
 ## Chapter Summaries
